@@ -54,25 +54,25 @@
 ## AGO 
 
 ### 2019
-* [Actes](https://pad.lamyne.org/MYNE_ag2018)
+* [Compte-rendu](https://pad.lamyne.org/MYNE_ag2018)
 
 ### 2018
+* [Compte-rendu](https://pad.lamyne.org/MwIwTAnAZgjArAQwLQBNgFMBsSAsAOABhCQQiyTwGMB2GECGaveBIA)
 * [MYNE mix](https://pad.lamyne.org/EYTgxgrAJmDMCmBaMAzAjAJkQFhMNiwAhhsIkRBCEfLBABxgDs8QA)
-* [Actes](https://pad.lamyne.org/MwIwTAnAZgjArAQwLQBNgFMBsSAsAOABhCQQiyTwGMB2GECGaveBIA)
 
 ### 2017 
+* [Compte-rendu](https://pad.lamyne.org/MwIwTAnAZgjArAQwLQBNgFMBsSAsAOABhCQQiyTwGMB2GECGaveBIA==)
 * [MYNEmix](https://pad.lamyne.org/EYTgxgrAJmDMCmBaMAzAjAJkQFhMNiwAhhsIkRBCEfLBABxgDs8QA)
     * [MYNEmix #1 (Janv. 2018)](https://pad.lamyne.org/GYQwbALA7CCmsFoAcZQIgVgMbAQTggGYBGBYgBkLz1mCkLACYog)
     * [MYNEmix #2 (Fev. 2018)](https://pad.lamyne.org/MYNEMix2_Fevrier2018#)
-* [Actes](https://pad.lamyne.org/MwIwTAnAZgjArAQwLQBNgFMBsSAsAOABhCQQiyTwGMB2GECGaveBIA==)
 
 ### 2016
+* [Compte-rendu](https://pad.lamyne.org/IYFgRgpgjA7ATCAtADggBhokaCcA2FGHMRAEwFZyBmNKVKkZAMyA)
 * [Préparation](https://pad.lamyne.org/IYNhAYDNIEwZgLQHYAsBWSCWRSBBOAUxE2CQEZDyAjSJGJYFIA)
-* [Actes](https://pad.lamyne.org/IYFgRgpgjA7ATCAtADggBhokaCcA2FGHMRAEwFZyBmNKVKkZAMyA)
 
 ### 2015
+* [Compte-rendu](https://pad.lamyne.org/BwIwrAzAZgbALMAtCADAdgKaLtAjIgTlzRETQgEMATGEKKiCEDIA)
 * [Préparation](https://pad.lamyne.org/AwJgxgjMBmAcBsBaEAjArAE0QFjNghogJxoDs0O2I02Kp8w8YAzEA===#) 
 * [Organisation](https://pad.lamyne.org/JwQwRgZgLAbApgdgLRzgVgBxKmAJlsDCAgY1wCYQpg0opyBGIA==#)
-* [Actes](https://pad.lamyne.org/BwIwrAzAZgbALMAtCADAdgKaLtAjIgTlzRETQgEMATGEKKiCEDIA)
 * [Masterclass](https://pad.lamyne.org/KYRgrAhiBMECYFpgVAgLAdjiBEAMaAbAgBxoBmhGAzMIaOSEA===#)
 
